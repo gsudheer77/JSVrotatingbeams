@@ -1,0 +1,231 @@
+T4|B1 G=0 N=50 done in 15.1s
+T4|B1 G=0 N=60 done in 26.4s
+T4|B1 G=0 N=70 done in 41.8s
+T4|B1 G=2 N=50 done in 14.0s
+T4|B1 G=2 N=60 done in 26.8s
+T4|B1 G=2 N=70 done in 42.6s
+T4|B1 G=4 N=50 done in 14.5s
+T4|B1 G=4 N=60 done in 25.7s
+T4|B1 G=4 N=70 done in 44.7s
+T4|B1 G=5 N=50 done in 14.3s
+T4|B1 G=5 N=60 done in 27.7s
+T4|B1 G=5 N=70 done in 45.1s
+T4|B1 G=6 N=50 done in 13.8s
+T4|B1 G=6 N=60 done in 28.5s
+T4|B1 G=6 N=70 done in 43.0s
+T4|B1 G=8 N=50 done in 15.5s
+T4|B1 G=8 N=60 done in 28.9s
+T4|B1 G=8 N=70 done in 47.5s
+T4|B1 G=10 N=50 done in 14.2s
+T4|B1 G=10 N=60 done in 28.6s
+T4|B1 G=10 N=70 done in 47.8s
+T4|B1 G=12 N=50 done in 16.1s
+T4|B1 G=12 N=60 done in 29.3s
+T4|B1 G=12 N=70 done in 48.2s
+T5|n2c05 G=0 N=50 done in 16.6s
+T5|n2c05 G=0 N=60 done in 29.2s
+T5|n2c05 G=0 N=70 done in 49.5s
+T5|n2c05 G=2 N=50 done in 15.7s
+T5|n2c05 G=2 N=60 done in 27.6s
+T5|n2c05 G=2 N=70 done in 44.6s
+T5|n2c05 G=4 N=50 done in 16.3s
+T5|n2c05 G=4 N=60 done in 29.4s
+T5|n2c05 G=4 N=70 done in 46.4s
+T5|n2c05 G=6 N=50 done in 13.9s
+T5|n2c05 G=6 N=60 done in 27.1s
+T5|n2c05 G=6 N=70 done in 43.3s
+T5|n2c05 G=8 N=50 done in 13.4s
+T5|n2c05 G=8 N=60 done in 26.7s
+T5|n2c05 G=8 N=70 done in 44.2s
+T5|n2c05 G=10 N=50 done in 14.5s
+T5|n2c05 G=10 N=60 done in 28.6s
+T5|n2c05 G=10 N=70 done in 45.7s
+T9|c08n1 G=5 N=50 done in 16.2s
+T9|c08n1 G=5 N=60 done in 29.0s
+T9|c08n1 G=5 N=70 done in 48.5s
+T9|c08n1 G=10 N=50 done in 15.5s
+T9|c08n1 G=10 N=60 done in 26.9s
+T9|c08n1 G=10 N=70 done in 44.7s
+T9|c08n2 G=5 N=50 done in 17.4s
+T9|c08n2 G=5 N=60 done in 26.7s
+T9|c08n2 G=5 N=70 done in 45.6s
+T9|c08n2 G=10 N=50 done in 15.8s
+T9|c08n2 G=10 N=60 done in 26.8s
+T9|c08n2 G=10 N=70 done in 42.4s
+
+=== T4 ===
+B1 G=0:
+   mode 1: d1=3.8e-22 d2=1.9e-21 r=5.0 E_b=+inf -> 0 figs: 3.824
+   mode 2: d1=3.3e-22 d2=1.9e-21 r=5.8 E_b=+inf -> 0 figs: 18.32
+   mode 3: d1=2.0e-23 d2=1.0e-21 r=51.0 E_b=+inf -> 0 figs: 47.26
+   mode 4: d1=1.8e-22 d2=1.3e-22 r=0.72 E_b=6.3e-22 -> 15 figs: 90.4504776586437
+   mode 5: d1=7.6e-22 d2=3.2e-22 r=0.42 E_b=1.3e-21 -> 15 figs: 148.001744862323
+   mode 6: d1=2.0e-20 d2=5.9e-23 r=0.0029 E_b=2.0e-20 -> 15 figs: 219.923673596888
+   mode 7: d1=3.9e-19 d2=2.5e-22 r=0.00065 E_b=3.9e-19 -> 15 figs: 306.221417824661
+   mode 8: d1=5.6e-18 d2=9.9e-23 r=1.8e-5 E_b=5.6e-18 -> 15 figs: 406.897107327595
+   mode 9: d1=6.2e-17 d2=3.1e-23 r=5.0e-7 E_b=6.2e-17 -> 15 figs: 521.951870707401
+   mode 10: d1=4.9e-16 d2=3.5e-21 r=7.1e-6 E_b=4.9e-16 -> 15 figs: 651.386352317727
+B1 G=2:
+   mode 1: d1=7.4e-23 d2=9.8e-22 r=13.0 E_b=+inf -> 0 figs: 4.437
+   mode 2: d1=5.2e-22 d2=3.4e-22 r=0.67 E_b=1.6e-21 -> 15 figs: 18.9366266187199
+   mode 3: d1=2.6e-22 d2=4.1e-23 r=0.16 E_b=3.1e-22 -> 15 figs: 47.8716188564501
+   mode 4: d1=2.1e-22 d2=1.1e-21 r=5.5 E_b=+inf -> 0 figs: 91.06
+   mode 5: d1=2.2e-22 d2=9.7e-22 r=4.4 E_b=+inf -> 0 figs: 148.6
+   mode 6: d1=1.4e-20 d2=1.2e-21 r=0.084 E_b=1.6e-20 -> 15 figs: 220.544916147325
+   mode 7: d1=3.3e-19 d2=1.0e-21 r=0.0032 E_b=3.3e-19 -> 15 figs: 306.846052837434
+   mode 8: d1=5.1e-18 d2=8.4e-22 r=0.00017 E_b=5.1e-18 -> 15 figs: 407.524494467507
+   mode 9: d1=5.8e-17 d2=6.6e-22 r=1.1e-5 E_b=5.8e-17 -> 14 figs: 522.58151589556
+   mode 10: d1=4.7e-16 d2=1.1e-21 r=2.4e-6 E_b=4.7e-16 -> 14 figs: 652.01787503039
+B1 G=4:
+   mode 1: d1=3.6e-22 d2=4.9e-22 r=1.4 E_b=+inf -> 0 figs: 5.879
+   mode 2: d1=2.9e-22 d2=9.9e-22 r=3.4 E_b=+inf -> 0 figs: 20.69
+   mode 3: d1=6.2e-23 d2=7.3e-22 r=12.0 E_b=+inf -> 0 figs: 49.65
+   mode 4: d1=1.9e-22 d2=5.6e-22 r=3.0 E_b=+inf -> 0 figs: 92.87
+   mode 5: d1=2.4e-24 d2=4.4e-22 r=1.8e+2 E_b=+inf -> 0 figs: 150.5
+   mode 6: d1=3.8e-21 d2=4.0e-22 r=0.1 E_b=4.2e-21 -> 15 figs: 222.397505214291
+   mode 7: d1=1.8e-19 d2=6.6e-22 r=0.0037 E_b=1.8e-19 -> 15 figs: 308.711861375642
+   mode 8: d1=3.7e-18 d2=2.5e-22 r=6.7e-5 E_b=3.7e-18 -> 15 figs: 409.400508079242
+   mode 9: d1=4.8e-17 d2=4.0e-22 r=8.3e-6 E_b=4.8e-17 -> 15 figs: 524.465625492062
+   mode 10: d1=4.2e-16 d2=1.5e-21 r=3.7e-6 E_b=4.2e-16 -> 15 figs: 653.908554530281
+B1 G=5:
+   mode 1: d1=3.7e-23 d2=3.4e-22 r=9.1 E_b=+inf -> 0 figs: 6.743
+   mode 2: d1=3.2e-22 d2=4.9e-22 r=1.5 E_b=+inf -> 0 figs: 21.91
+   mode 3: d1=2.6e-22 d2=9.3e-22 r=3.6 E_b=+inf -> 0 figs: 50.93
+   mode 4: d1=3.5e-22 d2=2.7e-22 r=0.77 E_b=1.5e-21 -> 15 figs: 94.2063581035196
+   mode 5: d1=1.5e-23 d2=1.4e-21 r=91.0 E_b=+inf -> 0 figs: 151.8
+   mode 6: d1=4.8e-23 d2=1.4e-21 r=29.0 E_b=+inf -> 0 figs: 223.8
+   mode 7: d1=1.0e-19 d2=5.6e-22 r=0.0054 E_b=1.0e-19 -> 15 figs: 310.103345061824
+   mode 8: d1=2.8e-18 d2=3.0e-22 r=0.0001 E_b=2.8e-18 -> 15 figs: 410.801522366404
+   mode 9: d1=4.2e-17 d2=5.0e-22 r=1.2e-5 E_b=4.2e-17 -> 15 figs: 525.873991408095
+   mode 10: d1=3.8e-16 d2=1.4e-21 r=3.6e-6 E_b=3.8e-16 -> 15 figs: 655.322758474023
+B1 G=6:
+   mode 1: d1=2.0e-22 d2=2.7e-23 r=0.13 E_b=2.3e-22 -> 15 figs: 7.65513915799495
+   mode 2: d1=3.3e-23 d2=9.3e-22 r=28.0 E_b=+inf -> 0 figs: 23.31
+   mode 3: d1=1.2e-24 d2=4.1e-22 r=3.5e+2 E_b=+inf -> 0 figs: 52.46
+   mode 4: d1=2.2e-22 d2=5.3e-22 r=2.4 E_b=+inf -> 0 figs: 95.81
+   mode 5: d1=3.1e-23 d2=1.8e-22 r=5.9 E_b=+inf -> 0 figs: 153.5
+   mode 6: d1=1.4e-21 d2=6.9e-23 r=0.05 E_b=1.5e-21 -> 15 figs: 225.448920453097
+   mode 7: d1=3.9e-20 d2=6.3e-22 r=0.016 E_b=4.0e-20 -> 15 figs: 311.795025233648
+   mode 8: d1=2.0e-18 d2=2.3e-22 r=0.00011 E_b=2.0e-18 -> 15 figs: 412.506975641779
+   mode 9: d1=3.4e-17 d2=3.0e-22 r=8.7e-6 E_b=3.4e-17 -> 15 figs: 527.589888118452
+   mode 10: d1=3.3e-16 d2=1.3e-21 r=3.9e-6 E_b=3.3e-16 -> 15 figs: 657.046832809128
+B1 G=8:
+   mode 1: d1=6.0e-23 d2=1.5e-22 r=2.4 E_b=+inf -> 0 figs: 9.554
+   mode 2: d1=1.2e-22 d2=1.1e-21 r=9.5 E_b=+inf -> 0 figs: 26.54
+   mode 3: d1=1.4e-22 d2=2.4e-22 r=1.7 E_b=+inf -> 0 figs: 56.16
+   mode 4: d1=1.6e-22 d2=6.9e-22 r=4.2 E_b=+inf -> 0 figs: 99.76
+   mode 5: d1=7.7e-23 d2=1.1e-21 r=15.0 E_b=+inf -> 0 figs: 157.6
+   mode 6: d1=9.1e-22 d2=7.1e-22 r=0.78 E_b=4.2e-21 -> 15 figs: 229.647788920441
+   mode 7: d1=2.3e-20 d2=8.8e-22 r=0.038 E_b=2.4e-20 -> 15 figs: 316.057358081796
+   mode 8: d1=5.2e-19 d2=7.5e-23 r=0.00014 E_b=5.2e-19 -> 15 figs: 416.814486264218
+   mode 9: d1=2.0e-17 d2=7.8e-23 r=4.0e-6 E_b=2.0e-17 -> 15 figs: 531.930993828801
+   mode 10: d1=2.4e-16 d2=5.8e-23 r=2.4e-7 E_b=2.4e-16 -> 15 figs: 661.413799555466
+B1 G=10:
+   mode 1: d1=1.6e-22 d2=1.9e-22 r=1.1 E_b=+inf -> 0 figs: 11.50
+   mode 2: d1=2.0e-21 d2=1.7e-22 r=0.082 E_b=2.2e-21 -> 15 figs: 30.1827442686250
+   mode 3: d1=1.7e-21 d2=1.4e-22 r=0.083 E_b=1.9e-21 -> 15 figs: 60.5638795174300
+   mode 4: d1=2.8e-22 d2=1.9e-22 r=0.7 E_b=9.3e-22 -> 15 figs: 104.611992638232
+   mode 5: d1=1.8e-22 d2=4.8e-22 r=2.7 E_b=+inf -> 0 figs: 162.7
+   mode 6: d1=1.0e-21 d2=9.5e-23 r=0.093 E_b=1.1e-21 -> 15 figs: 234.927623875076
+   mode 7: d1=1.7e-21 d2=2.1e-22 r=0.13 E_b=1.9e-21 -> 15 figs: 321.448373756162
+   mode 8: d1=2.2e-19 d2=1.3e-22 r=0.00058 E_b=2.2e-19 -> 15 figs: 422.283617835924
+   mode 9: d1=7.2e-18 d2=7.8e-22 r=0.00011 E_b=7.2e-18 -> 15 figs: 537.457404772198
+   mode 10: d1=1.5e-16 d2=5.8e-22 r=3.8e-6 E_b=1.5e-16 -> 15 figs: 666.983699148561
+B1 G=12:
+   mode 1: d1=4.1e-22 d2=3.1e-22 r=0.75 E_b=1.6e-21 -> 15 figs: 13.4711299333163
+   mode 2: d1=9.7e-21 d2=1.0e-21 r=0.11 E_b=1.1e-20 -> 15 figs: 34.0876749236725
+   mode 3: d1=1.1e-20 d2=8.2e-24 r=0.00076 E_b=1.1e-20 -> 15 figs: 65.5236542612923
+   mode 4: d1=1.5e-22 d2=5.9e-22 r=3.9 E_b=+inf -> 0 figs: 110.2
+   mode 5: d1=6.8e-21 d2=3.2e-22 r=0.046 E_b=7.2e-21 -> 15 figs: 168.698804758389
+   mode 6: d1=8.4e-21 d2=1.8e-22 r=0.022 E_b=8.6e-21 -> 15 figs: 241.211202142487
+   mode 7: d1=2.9e-20 d2=1.8e-22 r=0.006 E_b=2.9e-20 -> 15 figs: 327.907829915713
+   mode 8: d1=1.9e-19 d2=6.3e-22 r=0.0033 E_b=1.9e-19 -> 15 figs: 428.866494318058
+   mode 9: d1=5.0e-19 d2=8.5e-22 r=0.0017 E_b=5.0e-19 -> 15 figs: 544.130354166961
+   mode 10: d1=7.4e-17 d2=3.7e-22 r=5.1e-6 E_b=7.4e-17 -> 15 figs: 673.724597798593
+ column summary for T4 (mode: max d1, max E_b, min printable figs):
+   mode 1: max d1=4.1e-22  max E_b=+inf  min figs=0
+   mode 2: max d1=9.7e-21  max E_b=+inf  min figs=0
+   mode 3: max d1=1.1e-20  max E_b=+inf  min figs=0
+   mode 4: max d1=3.5e-22  max E_b=+inf  min figs=0
+   mode 5: max d1=6.8e-21  max E_b=+inf  min figs=0
+   mode 6: max d1=2.0e-20  max E_b=+inf  min figs=0
+   mode 7: max d1=3.9e-19  max E_b=3.9e-19  min figs=15
+   mode 8: max d1=5.6e-18  max E_b=5.6e-18  min figs=15
+   mode 9: max d1=6.2e-17  max E_b=6.2e-17  min figs=14
+   mode 10: max d1=4.9e-16  max E_b=4.9e-16  min figs=14
+
+=== T5 ===
+n2c05 G=0:
+   mode 1: d1=2.5e-22 d2=3.0e-22 r=1.2 E_b=+inf -> 0 figs: 4.625
+   mode 2: d1=3.2e-22 d2=3.5e-22 r=1.1 E_b=+inf -> 0 figs: 19.55
+   mode 3: d1=1.2e-22 d2=2.5e-22 r=2.0 E_b=+inf -> 0 figs: 48.58
+   mode 4: d1=4.1e-22 d2=1.0e-21 r=2.5 E_b=+inf -> 0 figs: 91.81
+   mode 5: d1=1.8e-21 d2=5.8e-22 r=0.31 E_b=2.7e-21 -> 15 figs: 149.389914278828
+n2c05 G=2:
+   mode 1: d1=2.6e-22 d2=3.5e-22 r=1.4 E_b=+inf -> 0 figs: 5.156
+   mode 2: d1=4.9e-22 d2=3.2e-21 r=6.6 E_b=+inf -> 0 figs: 20.07
+   mode 3: d1=1.6e-22 d2=1.6e-21 r=10.0 E_b=+inf -> 0 figs: 49.09
+   mode 4: d1=8.2e-23 d2=5.2e-22 r=6.3 E_b=+inf -> 0 figs: 92.32
+   mode 5: d1=3.3e-22 d2=6.8e-22 r=2.1 E_b=+inf -> 0 figs: 149.9
+n2c05 G=4:
+   mode 1: d1=2.2e-22 d2=2.4e-22 r=1.1 E_b=+inf -> 0 figs: 6.473
+   mode 2: d1=4.0e-22 d2=3.5e-22 r=0.87 E_b=3.0e-21 -> 15 figs: 21.5749016634498
+   mode 3: d1=1.4e-22 d2=1.1e-21 r=8.0 E_b=+inf -> 0 figs: 50.59
+   mode 4: d1=1.2e-22 d2=1.1e-21 r=9.4 E_b=+inf -> 0 figs: 93.84
+   mode 5: d1=4.2e-22 d2=3.7e-22 r=0.87 E_b=3.3e-21 -> 15 figs: 151.431097567687
+n2c05 G=6:
+   mode 1: d1=8.6e-23 d2=1.0e-22 r=1.2 E_b=+inf -> 0 figs: 8.166
+   mode 2: d1=1.4e-22 d2=3.2e-22 r=2.2 E_b=+inf -> 0 figs: 23.87
+   mode 3: d1=1.4e-22 d2=6.3e-22 r=4.6 E_b=+inf -> 0 figs: 53.00
+   mode 4: d1=6.7e-23 d2=2.1e-22 r=3.1 E_b=+inf -> 0 figs: 96.31
+   mode 5: d1=9.1e-22 d2=1.2e-21 r=1.3 E_b=+inf -> 0 figs: 153.9
+n2c05 G=8:
+   mode 1: d1=1.2e-22 d2=2.6e-22 r=2.2 E_b=+inf -> 0 figs: 10.02
+   mode 2: d1=1.1e-21 d2=1.2e-21 r=1.1 E_b=+inf -> 0 figs: 26.75
+   mode 3: d1=1.2e-21 d2=1.6e-22 r=0.14 E_b=1.4e-21 -> 15 figs: 56.1941149279332
+   mode 4: d1=6.4e-22 d2=1.1e-22 r=0.18 E_b=7.8e-22 -> 15 figs: 99.6672403549586
+   mode 5: d1=1.4e-21 d2=7.6e-22 r=0.55 E_b=3.1e-21 -> 15 figs: 157.386689408005
+n2c05 G=10:
+   mode 1: d1=4.4e-22 d2=2.7e-22 r=0.61 E_b=1.1e-21 -> 15 figs: 11.9414878443904
+   mode 2: d1=5.1e-21 d2=8.3e-22 r=0.16 E_b=6.1e-21 -> 15 figs: 30.0298930333542
+   mode 3: d1=3.8e-21 d2=9.1e-22 r=0.24 E_b=5.0e-21 -> 15 figs: 60.0398838166644
+   mode 4: d1=3.9e-22 d2=3.6e-22 r=0.92 E_b=4.7e-21 -> 15 figs: 103.809833639288
+   mode 5: d1=7.6e-21 d2=3.6e-22 r=0.047 E_b=7.9e-21 -> 15 figs: 161.700571556687
+ column summary for T5 (mode: max d1, max E_b, min printable figs):
+   mode 1: max d1=4.4e-22  max E_b=+inf  min figs=0
+   mode 2: max d1=5.1e-21  max E_b=+inf  min figs=0
+   mode 3: max d1=3.8e-21  max E_b=+inf  min figs=0
+   mode 4: max d1=6.4e-22  max E_b=+inf  min figs=0
+   mode 5: max d1=7.6e-21  max E_b=+inf  min figs=0
+
+=== T9 ===
+c08n1 G=5:
+   mode 1: d1=7.3e-14 d2=1.5e-18 r=2.0e-5 E_b=7.3e-14 -> 13 figs: 7.162807463297
+   mode 2: d1=5.3e-13 d2=1.2e-17 r=2.3e-5 E_b=5.3e-13 -> 12 figs: 19.4848020724
+   mode 3: d1=9.6e-13 d2=9.6e-17 r=0.0001 E_b=9.6e-13 -> 11 figs: 40.772560990
+   mode 4: d1=1.3e-12 d2=3.2e-16 r=0.00025 E_b=1.3e-12 -> 11 figs: 72.057597259
+   mode 5: d1=9.9e-13 d2=6.7e-16 r=0.00068 E_b=9.9e-13 -> 12 figs: 113.562668304
+c08n1 G=10:
+   mode 1: d1=1.9e-13 d2=3.6e-17 r=0.00019 E_b=1.9e-13 -> 13 figs: 11.90548146084
+   mode 2: d1=4.2e-12 d2=8.6e-16 r=0.00021 E_b=4.2e-12 -> 11 figs: 27.744107624
+   mode 3: d1=8.3e-12 d2=2.0e-15 r=0.00024 E_b=8.3e-12 -> 11 figs: 50.636982508
+   mode 4: d1=8.9e-12 d2=2.8e-15 r=0.00032 E_b=8.9e-12 -> 10 figs: 82.72551569
+   mode 5: d1=5.2e-12 d2=3.1e-15 r=0.00059 E_b=5.2e-12 -> 11 figs: 124.68440386
+c08n2 G=5:
+   mode 1: d1=7.3e-13 d2=5.7e-17 r=7.8e-5 E_b=7.3e-13 -> 12 figs: 8.56998341517
+   mode 2: d1=4.1e-12 d2=4.6e-16 r=0.00011 E_b=4.1e-12 -> 11 figs: 21.252085781
+   mode 3: d1=7.3e-12 d2=1.3e-15 r=0.00018 E_b=7.3e-12 -> 11 figs: 42.755841942
+   mode 4: d1=9.7e-12 d2=3.0e-15 r=0.00031 E_b=9.7e-12 -> 10 figs: 74.16708318
+   mode 5: d1=1.1e-11 d2=6.2e-15 r=0.00057 E_b=1.1e-11 -> 11 figs: 115.74994207
+c08n2 G=10:
+   mode 1: d1=1.0e-12 d2=8.5e-16 r=0.00085 E_b=1.0e-12 -> 12 figs: 13.0549832972
+   mode 2: d1=1.5e-11 d2=1.4e-14 r=0.00091 E_b=1.5e-11 -> 10 figs: 28.07518360
+   mode 3: d1=3.0e-11 d2=3.1e-14 r=0.001 E_b=3.0e-11 -> 10 figs: 50.49562093
+   mode 4: d1=3.2e-11 d2=4.1e-14 r=0.0013 E_b=3.3e-11 -> 9 figs: 82.3057066
+   mode 5: d1=1.8e-11 d2=4.3e-14 r=0.0024 E_b=1.8e-11 -> 11 figs: 124.09071918
+ column summary for T9 (mode: max d1, max E_b, min printable figs):
+   mode 1: max d1=1.0e-12  max E_b=1.0e-12  min figs=12
+   mode 2: max d1=1.5e-11  max E_b=1.5e-11  min figs=10
+   mode 3: max d1=3.0e-11  max E_b=3.0e-11  min figs=10
+   mode 4: max d1=3.2e-11  max E_b=3.3e-11  min figs=9
+   mode 5: max d1=1.8e-11  max E_b=1.8e-11  min figs=11

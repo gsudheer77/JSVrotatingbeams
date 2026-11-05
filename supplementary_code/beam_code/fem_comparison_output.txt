@@ -1,0 +1,10 @@
+FEM convergence (beam 1, Gamma=0):
+n_el  ndof  err_mode1     err_mode5
+   10    20  1.318e-06   2.460e-03
+   20    40  8.599e-08   1.812e-04
+   40    80  6.727e-09   1.178e-05
+   80   160  1.257e-09   7.437e-07
+  160   320  4.076e-08   4.579e-08
+
+Mode-shape L2/slope/curvature error, present vs FEM (n_el=80), mode 1:
+L2 deflection error (present vs FEM, normalized to unit tip): 7.224018477582963e-07

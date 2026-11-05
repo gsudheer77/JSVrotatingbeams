@@ -1,0 +1,7 @@
+NMODES-truncation convergence check: beam 1, Rbar=0.5, mode4-node1 and mode5-node1
+  NMODES    mode4 node1 pred    mode5 node1 pred   wall time
+       6                root                 tip      22.8s
+       8                 tip                root      34.2s
+      10                 tip                root      48.9s
+      12                 tip                root      66.5s
+      14                 tip                root      85.6s

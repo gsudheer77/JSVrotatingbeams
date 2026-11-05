@@ -1,0 +1,179 @@
+
+=== T4 ===
+B1 G=0  (printed at N_p=60):
+   mode 1: delta=1.9e-21 r=5.0 E=1.9e-21 -> 18 figs: 3.82378484729027979
+   mode 2: delta=1.9e-21 r=5.8 E=1.9e-21 -> 18 figs: 18.3172609041747244
+   mode 3: delta=1.0e-21 r=51.0 E=1.0e-21 -> 18 figs: 47.2648270104806259
+   mode 4: delta=1.3e-22 r=0.72 E=1.8e-22 -> 18 figs: 90.4504776586437024
+   mode 5: delta=3.2e-22 r=0.42 E=7.6e-22 -> 18 figs: 148.001744862322554
+   mode 6: delta=5.9e-23 r=0.0029 E=2.0e-20 -> 18 figs: 219.923673596887567
+   mode 7: delta=2.5e-22 r=0.00065 E=2.5e-22 -> 18 figs: 306.221417824661265
+   mode 8: delta=9.9e-23 r=1.8e-5 E=9.9e-23 -> 18 figs: 406.897107327594808
+   mode 9: delta=3.1e-23 r=5.0e-7 E=3.1e-23 -> 18 figs: 521.951870707400925
+   mode 10: delta=3.5e-21 r=7.1e-6 E=3.5e-21 -> 18 figs: 651.386352317727062
+B1 G=2  (printed at N_p=60):
+   mode 1: delta=9.8e-22 r=13.0 E=9.8e-22 -> 18 figs: 4.43680173115963727
+   mode 2: delta=3.4e-22 r=0.67 E=5.2e-22 -> 18 figs: 18.9366266187198537
+   mode 3: delta=4.1e-23 r=0.16 E=2.6e-22 -> 18 figs: 47.8716188564500554
+   mode 4: delta=1.1e-21 r=5.5 E=1.1e-21 -> 18 figs: 91.0625716597292470
+   mode 5: delta=9.7e-22 r=4.4 E=9.7e-22 -> 18 figs: 148.618796834354541
+   mode 6: delta=1.2e-21 r=0.084 E=1.4e-20 -> 18 figs: 220.544916147324982
+   mode 7: delta=1.0e-21 r=0.0032 E=1.0e-21 -> 18 figs: 306.846052837434251
+   mode 8: delta=8.4e-22 r=0.00017 E=8.4e-22 -> 18 figs: 407.524494467507346
+   mode 9: delta=6.6e-22 r=1.1e-5 E=6.6e-22 -> 18 figs: 522.581515895558481
+   mode 10: delta=1.1e-21 r=2.4e-6 E=1.1e-21 -> 18 figs: 652.017875030388239
+B1 G=4  (printed at N_p=60):
+   mode 1: delta=4.9e-22 r=1.4 E=4.9e-22 -> 18 figs: 5.87876170481657821
+   mode 2: delta=9.9e-22 r=3.4 E=9.9e-22 -> 18 figs: 20.6851583839343542
+   mode 3: delta=7.3e-22 r=12.0 E=7.3e-22 -> 18 figs: 49.6456370614105182
+   mode 4: delta=5.6e-22 r=3.0 E=5.6e-22 -> 18 figs: 92.8729872952668548
+   mode 5: delta=4.4e-22 r=1.8e+2 E=4.4e-22 -> 18 figs: 150.453689763132817
+   mode 6: delta=4.0e-22 r=0.1 E=3.8e-21 -> 18 figs: 222.397505214290673
+   mode 7: delta=6.6e-22 r=0.0037 E=6.6e-22 -> 18 figs: 308.711861375641846
+   mode 8: delta=2.5e-22 r=6.7e-5 E=2.5e-22 -> 18 figs: 409.400508079242351
+   mode 9: delta=4.0e-22 r=8.3e-6 E=4.0e-22 -> 18 figs: 524.465625492061752
+   mode 10: delta=1.5e-21 r=3.7e-6 E=1.5e-21 -> 18 figs: 653.908554530280646
+B1 G=5  (printed at N_p=60):
+   mode 1: delta=3.4e-22 r=9.1 E=3.4e-22 -> 18 figs: 6.74339855567441192
+   mode 2: delta=4.9e-22 r=1.5 E=4.9e-22 -> 18 figs: 21.9053251922056025
+   mode 3: delta=9.3e-22 r=3.6 E=9.3e-22 -> 18 figs: 50.9338072996842230
+   mode 4: delta=2.7e-22 r=0.77 E=3.5e-22 -> 18 figs: 94.2063581035196047
+   mode 5: delta=1.4e-21 r=91.0 E=1.4e-21 -> 18 figs: 151.814248969929959
+   mode 6: delta=1.4e-21 r=29.0 E=1.4e-21 -> 18 figs: 223.776167735992833
+   mode 7: delta=5.6e-22 r=0.0054 E=5.6e-22 -> 18 figs: 310.103345061824289
+   mode 8: delta=3.0e-22 r=0.0001 E=3.0e-22 -> 18 figs: 410.801522366404458
+   mode 9: delta=5.0e-22 r=1.2e-5 E=5.0e-22 -> 18 figs: 525.873991408095039
+   mode 10: delta=1.4e-21 r=3.6e-6 E=1.4e-21 -> 18 figs: 655.322758474023195
+B1 G=6  (printed at N_p=60):
+   mode 1: delta=2.7e-23 r=0.13 E=2.0e-22 -> 18 figs: 7.65513915799494642
+   mode 2: delta=9.3e-22 r=28.0 E=9.3e-22 -> 18 figs: 23.3092720321361853
+   mode 3: delta=4.1e-22 r=3.5e+2 E=4.1e-22 -> 18 figs: 52.4632601959175468
+   mode 4: delta=5.3e-22 r=2.4 E=5.3e-22 -> 18 figs: 95.8090019994399157
+   mode 5: delta=1.8e-22 r=5.9 E=1.8e-22 -> 18 figs: 153.459552151133298
+   mode 6: delta=6.9e-23 r=0.05 E=1.4e-21 -> 18 figs: 225.448920453097075
+   mode 7: delta=6.3e-22 r=0.016 E=3.9e-20 -> 18 figs: 311.795025233647804
+   mode 8: delta=2.3e-22 r=0.00011 E=2.3e-22 -> 18 figs: 412.506975641779021
+   mode 9: delta=3.0e-22 r=8.7e-6 E=3.0e-22 -> 18 figs: 527.589888118452174
+   mode 10: delta=1.3e-21 r=3.9e-6 E=1.3e-21 -> 18 figs: 657.046832809128168
+B1 G=8  (printed at N_p=60):
+   mode 1: delta=1.5e-22 r=2.4 E=1.5e-22 -> 18 figs: 9.55395799441172731
+   mode 2: delta=1.1e-21 r=9.5 E=1.1e-21 -> 18 figs: 26.5436575932826862
+   mode 3: delta=2.4e-22 r=1.7 E=2.4e-22 -> 18 figs: 56.1594888926945808
+   mode 4: delta=6.9e-22 r=4.2 E=6.9e-22 -> 18 figs: 99.7637202658042342
+   mode 5: delta=1.1e-21 r=15.0 E=1.1e-21 -> 18 figs: 157.564169027223184
+   mode 6: delta=7.1e-22 r=0.78 E=9.1e-22 -> 18 figs: 229.647788920440553
+   mode 7: delta=8.8e-22 r=0.038 E=2.3e-20 -> 18 figs: 316.057358081795634
+   mode 8: delta=7.5e-23 r=0.00014 E=7.5e-23 -> 18 figs: 416.814486264217857
+   mode 9: delta=7.8e-23 r=4.0e-6 E=7.8e-23 -> 18 figs: 531.930993828800610
+   mode 10: delta=5.8e-23 r=2.4e-7 E=5.8e-23 -> 18 figs: 661.413799555465747
+B1 G=10  (printed at N_p=60):
+   mode 1: delta=1.9e-22 r=1.1 E=1.9e-22 -> 18 figs: 11.5015490373889955
+   mode 2: delta=1.7e-22 r=0.082 E=2.0e-21 -> 18 figs: 30.1827442686250478
+   mode 3: delta=1.4e-22 r=0.083 E=1.7e-21 -> 18 figs: 60.5638795174300223
+   mode 4: delta=1.9e-22 r=0.7 E=2.8e-22 -> 18 figs: 104.611992638232232
+   mode 5: delta=4.8e-22 r=2.7 E=4.8e-22 -> 18 figs: 162.677340282681552
+   mode 6: delta=9.5e-23 r=0.093 E=1.0e-21 -> 18 figs: 234.927623875076089
+   mode 7: delta=2.1e-22 r=0.13 E=1.7e-21 -> 18 figs: 321.448373756161597
+   mode 8: delta=1.3e-22 r=0.00058 E=1.3e-22 -> 18 figs: 422.283617835924156
+   mode 9: delta=7.8e-22 r=0.00011 E=7.8e-22 -> 18 figs: 537.457404772198026
+   mode 10: delta=5.8e-22 r=3.8e-6 E=5.8e-22 -> 18 figs: 666.983699148561041
+B1 G=12  (printed at N_p=60):
+   mode 1: delta=3.1e-22 r=0.75 E=4.1e-22 -> 18 figs: 13.4711299333163366
+   mode 2: delta=1.0e-21 r=0.11 E=9.7e-21 -> 18 figs: 34.0876749236724660
+   mode 3: delta=8.2e-24 r=0.00076 E=1.1e-20 -> 18 figs: 65.5236542612923104
+   mode 4: delta=5.9e-22 r=3.9 E=5.9e-22 -> 18 figs: 110.225008006042237
+   mode 5: delta=3.2e-22 r=0.046 E=6.8e-21 -> 18 figs: 168.698804758389244
+   mode 6: delta=1.8e-22 r=0.022 E=8.4e-21 -> 18 figs: 241.211202142487019
+   mode 7: delta=1.8e-22 r=0.006 E=2.9e-20 -> 18 figs: 327.907829915712536
+   mode 8: delta=6.3e-22 r=0.0033 E=6.3e-22 -> 18 figs: 428.866494318057706
+   mode 9: delta=8.5e-22 r=0.0017 E=8.5e-22 -> 18 figs: 544.130354166960869
+   mode 10: delta=3.7e-22 r=5.1e-6 E=3.7e-22 -> 18 figs: 673.724597798592873
+ test at the PRINTED precision (12 figures): all entries pass
+ column summary for T4 (mode: max delta, max E, min printable figs):
+   mode 1: max delta=1.9e-21  max E=1.9e-21  min figs=18
+   mode 2: max delta=1.9e-21  max E=9.7e-21  min figs=18
+   mode 3: max delta=1.0e-21  max E=1.1e-20  min figs=18
+   mode 4: max delta=1.1e-21  max E=1.1e-21  min figs=18
+   mode 5: max delta=1.4e-21  max E=6.8e-21  min figs=18
+   mode 6: max delta=1.4e-21  max E=2.0e-20  min figs=18
+   mode 7: max delta=1.0e-21  max E=3.9e-20  min figs=18
+   mode 8: max delta=8.4e-22  max E=8.4e-22  min figs=18
+   mode 9: max delta=8.5e-22  max E=8.5e-22  min figs=18
+   mode 10: max delta=3.5e-21  max E=3.5e-21  min figs=18
+
+=== T5 ===
+n2c05 G=0  (printed at N_p=60):
+   mode 1: delta=3.0e-22 r=1.2 E=3.0e-22 -> 18 figs: 4.62515025243163438
+   mode 2: delta=3.5e-22 r=1.1 E=3.5e-22 -> 18 figs: 19.5476131805194186
+   mode 3: delta=2.5e-22 r=2.0 E=2.5e-22 -> 18 figs: 48.5788993338556103
+   mode 4: delta=1.0e-21 r=2.5 E=1.0e-21 -> 18 figs: 91.8127682608119655
+   mode 5: delta=5.8e-22 r=0.31 E=1.8e-21 -> 18 figs: 149.389914278827756
+n2c05 G=2  (printed at N_p=60):
+   mode 1: delta=3.5e-22 r=1.4 E=3.5e-22 -> 18 figs: 5.15641499046483548
+   mode 2: delta=3.2e-21 r=6.6 E=3.2e-21 -> 18 figs: 20.0733550125059173
+   mode 3: delta=1.6e-21 r=10.0 E=1.6e-21 -> 18 figs: 49.0906084968298980
+   mode 4: delta=5.2e-22 r=6.3 E=5.2e-22 -> 18 figs: 92.3243565782310028
+   mode 5: delta=6.8e-22 r=2.1 E=6.8e-22 -> 18 figs: 149.902965130879336
+n2c05 G=4  (printed at N_p=60):
+   mode 1: delta=2.4e-22 r=1.1 E=2.4e-22 -> 18 figs: 6.47261851499459710
+   mode 2: delta=3.5e-22 r=0.87 E=4.0e-22 -> 18 figs: 21.5749016634497683
+   mode 3: delta=1.1e-21 r=8.0 E=1.1e-21 -> 18 figs: 50.5938719749308152
+   mode 4: delta=1.1e-21 r=9.4 E=1.1e-21 -> 18 figs: 93.8415254857989648
+   mode 5: delta=3.7e-22 r=0.87 E=4.2e-22 -> 18 figs: 151.431097567686678
+n2c05 G=6  (printed at N_p=60):
+   mode 1: delta=1.0e-22 r=1.2 E=1.0e-22 -> 18 figs: 8.16629087432341245
+   mode 2: delta=3.2e-22 r=2.2 E=3.2e-22 -> 18 figs: 23.8683829503102442
+   mode 3: delta=6.3e-22 r=4.6 E=6.3e-22 -> 18 figs: 53.0018651238111218
+   mode 4: delta=2.1e-22 r=3.1 E=2.1e-22 -> 18 figs: 96.3142233384447945
+   mode 5: delta=1.2e-21 r=1.3 E=1.2e-21 -> 18 figs: 153.942325204970519
+n2c05 G=8  (printed at N_p=60):
+   mode 1: delta=2.6e-22 r=2.2 E=2.6e-22 -> 18 figs: 10.0192508349261803
+   mode 2: delta=1.2e-21 r=1.1 E=1.2e-21 -> 18 figs: 26.7454433236120566
+   mode 3: delta=1.6e-22 r=0.14 E=1.2e-21 -> 18 figs: 56.1941149279331840
+   mode 4: delta=1.1e-22 r=0.18 E=6.4e-22 -> 18 figs: 99.6672403549585755
+   mode 5: delta=7.6e-22 r=0.55 E=1.4e-21 -> 18 figs: 157.386689408005265
+n2c05 G=10  (printed at N_p=60):
+   mode 1: delta=2.7e-22 r=0.61 E=4.4e-22 -> 18 figs: 11.9414878443903755
+   mode 2: delta=8.3e-22 r=0.16 E=5.1e-21 -> 18 figs: 30.0298930333542271
+   mode 3: delta=9.1e-22 r=0.24 E=3.8e-21 -> 18 figs: 60.0398838166643692
+   mode 4: delta=3.6e-22 r=0.92 E=3.9e-22 -> 18 figs: 103.809833639287684
+   mode 5: delta=3.6e-22 r=0.047 E=7.6e-21 -> 18 figs: 161.700571556687363
+ test at the PRINTED precision (12 figures): all entries pass
+ column summary for T5 (mode: max delta, max E, min printable figs):
+   mode 1: max delta=3.5e-22  max E=4.4e-22  min figs=18
+   mode 2: max delta=3.2e-21  max E=5.1e-21  min figs=18
+   mode 3: max delta=1.6e-21  max E=3.8e-21  min figs=18
+   mode 4: max delta=1.1e-21  max E=1.1e-21  min figs=18
+   mode 5: max delta=1.2e-21  max E=7.6e-21  min figs=18
+
+=== T9 ===
+c08n1 G=5  (printed at N_p=60):
+   mode 1: delta=1.5e-18 r=2.0e-5 E=1.5e-18 -> 17 figs: 7.1628074632972553
+   mode 2: delta=1.2e-17 r=2.3e-5 E=1.2e-17 -> 17 figs: 19.484802072414275
+   mode 3: delta=9.6e-17 r=0.0001 E=9.6e-17 -> 15 figs: 40.7725609899796
+   mode 4: delta=3.2e-16 r=0.00025 E=3.2e-16 -> 14 figs: 72.057597259206
+   mode 5: delta=6.7e-16 r=0.00068 E=6.7e-16 -> 15 figs: 113.562668303905
+c08n1 G=10  (printed at N_p=60):
+   mode 1: delta=3.6e-17 r=0.00019 E=3.6e-17 -> 16 figs: 11.90548146083533
+   mode 2: delta=8.6e-16 r=0.00021 E=8.6e-16 -> 15 figs: 27.7441076236226
+   mode 3: delta=2.0e-15 r=0.00024 E=2.0e-15 -> 14 figs: 50.636982507677
+   mode 4: delta=2.8e-15 r=0.00032 E=2.8e-15 -> 13 figs: 82.72551569233
+   mode 5: delta=3.1e-15 r=0.00059 E=3.1e-15 -> 15 figs: 124.684403858507
+c08n2 G=5  (printed at N_p=60):
+   mode 1: delta=5.7e-17 r=7.8e-5 E=5.7e-17 -> 15 figs: 8.56998341517296
+   mode 2: delta=4.6e-16 r=0.00011 E=4.6e-16 -> 15 figs: 21.2520857810553
+   mode 3: delta=1.3e-15 r=0.00018 E=1.3e-15 -> 14 figs: 42.755841942148
+   mode 4: delta=3.0e-15 r=0.00031 E=3.0e-15 -> 13 figs: 74.16708318468
+   mode 5: delta=6.2e-15 r=0.00057 E=6.2e-15 -> 14 figs: 115.74994206726
+c08n2 G=10  (printed at N_p=60):
+   mode 1: delta=8.5e-16 r=0.00085 E=8.6e-16 -> 15 figs: 13.0549832971597
+   mode 2: delta=1.4e-14 r=0.00091 E=1.4e-14 -> 14 figs: 28.075183595096
+   mode 3: delta=3.1e-14 r=0.001 E=3.1e-14 -> 12 figs: 50.4956209250
+   mode 4: delta=4.1e-14 r=0.0013 E=4.1e-14 -> 13 figs: 82.30570659262
+   mode 5: delta=4.3e-14 r=0.0024 E=4.3e-14 -> 13 figs: 124.0907191751
+ column summary for T9 (mode: max delta, max E, min printable figs):
+   mode 1: max delta=8.5e-16  max E=8.6e-16  min figs=15
+   mode 2: max delta=1.4e-14  max E=1.4e-14  min figs=14
+   mode 3: max delta=3.1e-14  max E=3.1e-14  min figs=12
+   mode 4: max delta=4.1e-14  max E=4.1e-14  min figs=13
+   mode 5: max delta=4.3e-14  max E=4.3e-14  min figs=13

@@ -1,0 +1,12 @@
+   mode 1: delta=3.9e-16 r=0.018 E=4.0e-16 -> 16 figs: 10.23793789673123
+   mode 2: delta=2.9e-15 r=0.018 E=3.0e-15 -> 14 figs: 29.889413942783
+   mode 3: delta=4.3e-15 r=0.018 E=4.4e-15 -> 13 figs: 66.02218841849
+   mode 4: delta=5.1e-15 r=0.018 E=5.2e-15 -> 14 figs: 119.10669004351
+   mode 5: delta=5.7e-15 r=0.018 E=5.8e-15 -> 14 figs: 189.31618763736
+ test at the PRINTED precision (11 figures): all entries pass
+ column summary for T6x (mode: max delta, max E, min printable figs):
+   mode 1: max delta=3.9e-16  max E=4.0e-16  min figs=16
+   mode 2: max delta=2.9e-15  max E=3.0e-15  min figs=14
+   mode 3: max delta=4.3e-15  max E=4.4e-15  min figs=13
+   mode 4: max delta=5.1e-15  max E=5.2e-15  min figs=14
+   mode 5: max delta=5.7e-15  max E=5.8e-15  min figs=14

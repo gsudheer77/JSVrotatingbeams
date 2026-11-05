@@ -1,0 +1,19 @@
+Beam 1 (WW moderate taper), R=0: done in 172s
+Beam 1, hub radius R=0.5: done in 169s
+Beam 2 (WW severe taper), R=0: done in 772s
+Banerjee c=0.2, n=1, R=0: done in 171s
+Banerjee c=0.6, n=2, R=0: done in 205s
+
+====================================================================================================
+SUMMARY per configuration (modes 3-8 = original 135-node set; mode 2 added)
+====================================================================================================
+Beam 1 (WW moderate taper), R=0      modes 3-8 agree 27/27  rootward 6  min|shift(6)|=1.13e-04  max unc=1.6e-12  max|dFD-dpert|/|d|=1.7e-02  K_sign<=9  min Gamma10=5  nodes w/ reversal=0
+Beam 1 (WW moderate taper), R=0      mode 2    agree 1/1  rootward 1  min|shift(6)|=9.32e-03  max unc=1.1e-16  max|dFD-dpert|/|d|=2.2e-05  K_sign<=3  min Gamma10=3  nodes w/ reversal=0
+Beam 1, hub radius R=0.5             modes 3-8 agree 27/27  rootward 5  min|shift(6)|=1.55e-05  max unc=1.5e-12  max|dFD-dpert|/|d|=9.1e-02  K_sign<=10  min Gamma10=1  nodes w/ reversal=4
+Beam 1, hub radius R=0.5             mode 2    agree 1/1  rootward 1  min|shift(6)|=8.85e-03  max unc=1.1e-16  max|dFD-dpert|/|d|=4.3e-05  K_sign<=3  min Gamma10=3  nodes w/ reversal=0
+Beam 2 (WW severe taper), R=0        modes 3-8 agree 27/27  rootward 6  min|shift(6)|=7.03e-05  max unc=3.3e-08  max|dFD-dpert|/|d|=2.6e-02  K_sign<=10  min Gamma10=7  nodes w/ reversal=0
+Beam 2 (WW severe taper), R=0        mode 2    agree 1/1  rootward 1  min|shift(6)|=5.87e-03  max unc=1.5e-08  max|dFD-dpert|/|d|=2.2e-05  K_sign<=3  min Gamma10=5  nodes w/ reversal=0
+Banerjee c=0.2, n=1, R=0             modes 3-8 agree 27/27  rootward 0  min|shift(6)|=2.23e-05  max unc=6.4e-13  max|dFD-dpert|/|d|=2.0e-01  K_sign<=9  min Gamma10=0.25  nodes w/ reversal=0
+Banerjee c=0.2, n=1, R=0             mode 2    agree 1/1  rootward 1  min|shift(6)|=6.31e-03  max unc=0.0e+00  max|dFD-dpert|/|d|=1.1e-05  K_sign<=3  min Gamma10=3  nodes w/ reversal=0
+Banerjee c=0.6, n=2, R=0             modes 3-8 agree 27/27  rootward 13  min|shift(6)|=2.31e-05  max unc=4.4e-11  max|dFD-dpert|/|d|=2.5e-02  K_sign<=9  min Gamma10=6  nodes w/ reversal=0
+Banerjee c=0.6, n=2, R=0             mode 2    agree 1/1  rootward 1  min|shift(6)|=1.14e-02  max unc=8.0e-15  max|dFD-dpert|/|d|=6.0e-06  K_sign<=3  min Gamma10=4  nodes w/ reversal=0

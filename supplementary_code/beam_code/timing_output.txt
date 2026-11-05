@@ -1,0 +1,25 @@
+==============================================================================
+Beam 1 (Gamma=0): assembly / reduce+eigensolve / total time (s), peak mem (KB)
+N= 15  assembly=  0.1188  eig=  0.6354  total=  0.7542  peak=    433.5 KB
+N= 20  assembly=  0.1673  eig=  2.6002  total=  2.7675  peak=    709.2 KB
+N= 25  assembly=  0.2636  eig=  6.2173  total=  6.4809  peak=   1215.5 KB
+N= 30  assembly=  0.4955  eig=  9.0047  total=  9.5002  peak=   1934.2 KB
+N= 40  assembly=  0.7670  eig= 23.0658  total= 23.8328  peak=   3771.3 KB
+N= 50  assembly=  1.3928  eig= 59.3532  total= 60.7460  peak=   6012.6 KB
+
+Beam 2 (Gamma=0), severe taper, N=80 (converged reference row):
+N=80  assembly=3.4355  eig=269.0831  total=272.5186 s (4.54 min)  peak=17402.9 KB
+
+Multiprecision (34-digit) vs. double-precision cost, reduced eigenproblem, beam 1, N=50:
+  34-digit total : 60.9515 s
+  double total   : 1.5197 ms
+  ratio (mp/dbl) : 4.011e+04
+
+Fitted scaling exponents (beam 1, N=15..50, least-squares log-log slope):
+  assembly time  ~ N^2.10
+  total solve    ~ N^3.49
+
+Hardware/software: single core, containerized cloud instance (not the
+paper's 2.80 GHz reference machine -- absolute seconds differ, per
+Appendix B; the scaling exponents and the mp-vs-double ratio are the
+portable quantities). mpmath 1.3.0, Python 3.12.

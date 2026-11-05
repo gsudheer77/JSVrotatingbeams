@@ -1,0 +1,8 @@
+mpmath 1.3.0 (backend gmpy)
+(a) beam 2, Gamma=0, N=90: max relative difference vs mpmath-1.4.1 run = 1.68e-30
+(a) beam 2, Gamma=12, N=90: max relative difference vs mpmath-1.4.1 run = 2.45e-30
+(b) B1: max |difference| of node positions/shifts between the two runs = 0.00e+00
+(b) B1R: max |difference| of node positions/shifts between the two runs = 0.00e+00
+(b) B2: max |difference| of node positions/shifts between the two runs = 0.00e+00
+(b) BJ21: max |difference| of node positions/shifts between the two runs = 0.00e+00
+(b) BJ62: max |difference| of node positions/shifts between the two runs = 0.00e+00

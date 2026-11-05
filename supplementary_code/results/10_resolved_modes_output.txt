@@ -1,0 +1,20 @@
+
+Beam 1, Gamma=0 (reference N=70); 44s
+   N  finite  complex  Re<=0  real>0   resolved(1e-6)  resolved(1e-10)  real-but-unresolved  largest rel.err of real eigs  max cont.resid (resolved)
+   20     17       2      0      15              2               0                 13              32.0        1.1e-5
+   30     27       6      0      21              7               4                 14              83.0        4.3e-6
+   40     37       8      0      29             12               9                 17            1.4e+2        7.2e-5
+   50     47      10      0      37             16              13                 21            1.7e+2        2.0e-5
+
+Beam 1, Gamma=10 (reference N=70); 46s
+   N  finite  complex  Re<=0  real>0   resolved(1e-6)  resolved(1e-10)  real-but-unresolved  largest rel.err of real eigs  max cont.resid (resolved)
+   20     17       2      0      15              1               0                 14              32.0        1.6e-5
+   30     27       6      0      21              7               1                 14              83.0        4.8e-7
+   40     37       8      0      29             12               9                 17            1.4e+2        3.6e-5
+   50     47      10      0      37             16              13                 21            1.7e+2        1.9e-5
+
+Beam 2, Gamma=0 (reference N=100); 137s
+   N  finite  complex  Re<=0  real>0   resolved(1e-6)  resolved(1e-10)  real-but-unresolved  largest rel.err of real eigs  max cont.resid (resolved)
+   40     37       8      0      29              0               0                 29            1.1e+2        0
+   60     57      12      0      45             23               0                 22            2.4e+2        0.00011
+   80     77      16      0      61             33              21                 28            2.9e+2        4.9e-5

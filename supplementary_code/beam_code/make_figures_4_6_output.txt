@@ -1,0 +1,3 @@
+wrote fig4_frequency_speed.pdf/.png
+wrote fig5_modeshapes.pdf/.png
+wrote fig6_node_migration.pdf/.png

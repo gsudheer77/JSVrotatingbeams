@@ -1,0 +1,3 @@
+k = 0..40: grouped formulas agree with factored form, product identity and sympy at x=+-1: ALL OK
+example k=5: (k^4-k^2)/3 = 200  vs mis-grouped k^4 - k^2/3 = 1850/3
+build_pencil tip rows vs grouped formulas (N=20): max abs difference = 0.0

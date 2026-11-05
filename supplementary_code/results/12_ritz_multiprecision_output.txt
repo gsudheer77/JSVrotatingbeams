@@ -1,0 +1,40 @@
+
+Beam 1  (reference: collocation N=50)
+  Gamma=0
+    M=13: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   1.71e-15    3.91e-13     5.6e-11   all positive
+    M=16: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   1.16e-19     5.2e-17    9.69e-15   all positive
+    M=20: rel. gap (lam_Ritz^2-lam^2)/lam^2 =  -9.84e-23    2.76e-22    1.15e-19   NEGATIVE GAP
+    M=24: rel. gap (lam_Ritz^2-lam^2)/lam^2 =  -9.87e-23    6.41e-23   -2.52e-23   NEGATIVE GAP
+    M=28: rel. gap (lam_Ritz^2-lam^2)/lam^2 =  -9.87e-23    6.41e-23   -2.59e-23   NEGATIVE GAP
+  Gamma=6
+    M=13: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   2.64e-14    6.94e-12    6.19e-13   all positive
+    M=16: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   6.09e-18    2.05e-15    6.31e-16   all positive
+    M=20: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   1.23e-22     1.4e-20     2.9e-22   all positive
+    M=24: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   4.49e-23    -6.5e-23    5.42e-23   NEGATIVE GAP
+    M=28: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   4.49e-23   -6.55e-23    5.41e-23   NEGATIVE GAP
+  Gamma=12
+    M=13: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   1.17e-13    2.58e-10     2.19e-9   all positive
+    M=16: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   9.26e-17    2.01e-13    1.08e-12   all positive
+    M=20: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   1.49e-20    2.97e-17    1.96e-16   all positive
+    M=24: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   8.25e-22    1.97e-20    2.29e-20   all positive
+    M=28: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   8.25e-22    1.94e-20    2.18e-20   all positive
+
+Beam 2  (reference: collocation N=90)
+  Gamma=0
+    M=13: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   6.95e-10      2.3e-8     1.85e-7   all positive
+    M=16: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   4.55e-11     1.52e-9     1.22e-8   all positive
+    M=20: rel. gap (lam_Ritz^2-lam^2)/lam^2 =    9.3e-13    3.97e-11    3.23e-10   all positive
+    M=24: rel. gap (lam_Ritz^2-lam^2)/lam^2 =  -2.48e-13    6.32e-13    8.03e-12   NEGATIVE GAP
+    M=28: rel. gap (lam_Ritz^2-lam^2)/lam^2 =  -2.79e-13    -4.0e-13    -3.0e-13   NEGATIVE GAP
+  Gamma=6
+    M=13: rel. gap (lam_Ritz^2-lam^2)/lam^2 =    1.5e-10     2.07e-8     1.87e-7   all positive
+    M=16: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   9.74e-12     1.36e-9     1.23e-8   all positive
+    M=20: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   1.81e-13    3.55e-11    3.24e-10   all positive
+    M=24: rel. gap (lam_Ritz^2-lam^2)/lam^2 =  -7.07e-14    5.83e-13    8.05e-12   NEGATIVE GAP
+    M=28: rel. gap (lam_Ritz^2-lam^2)/lam^2 =  -7.73e-14   -3.35e-13   -2.73e-13   NEGATIVE GAP
+  Gamma=12
+    M=13: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   2.18e-11     1.84e-8     1.97e-7   all positive
+    M=16: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   1.39e-12     1.19e-9     1.28e-8   all positive
+    M=20: rel. gap (lam_Ritz^2-lam^2)/lam^2 =   2.04e-14    3.07e-11    3.33e-10   all positive
+    M=24: rel. gap (lam_Ritz^2-lam^2)/lam^2 =  -1.54e-14    5.49e-13    8.29e-12   NEGATIVE GAP
+    M=28: rel. gap (lam_Ritz^2-lam^2)/lam^2 =  -1.64e-14   -2.41e-13   -2.14e-13   NEGATIVE GAP

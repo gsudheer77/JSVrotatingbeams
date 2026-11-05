@@ -1,0 +1,21 @@
+check,case,modes,metric,value,source
+node_migration,all five configurations,2-8,directions correct (0<=Gamma<=6),140/140,results/6b_node_summary_output.txt
+node_migration,all five configurations,2-8,min shift at Gamma=6 / max numerical uncertainty,1.5e-5 / 3e-8,results/6b_node_summary_output.txt
+node_migration,per configuration,2-8,median |d_K16 - d_FD|/|d_FD|,1.1e-3 to 2.0e-3,results/6d_node_fine_summary_output.txt
+node_migration,all nodes,2-8,FD derivative spread between speed pairs (max),2e-7 (0.05/0.1) and 9e-6 (0.25/0.5),results/6d_node_fine_summary_output.txt
+node_migration,all nodes,2-8,median interpolated Gamma_10 by mode 2..8,2.9/5.5/8.3/11.0/13.5/15.7/18.2,results/6d_node_fine_summary_output.txt
+node_migration,124 nodes crossing within Gamma<=20,2-8,tau at interpolated Gamma_10 (median; 10-90%),0.22; 0.13-0.26,results/6d_node_fine_summary_output.txt
+node_migration,Beam 1 Rbar=0.5,3/5/6/7 node 1,trajectory turns near Gamma,8/5/10/15.5,6c_node_fine_grid_B1R.json
+energy_ratio,all five configurations,1-4,max |Gamma*_LO/Gamma*_exact - 1|,3.4%,results/7_tau_scaling_output.txt
+energy_ratio,all five configurations,5-12,fitted exponent range (Gamma=4/12/20),-2.00 to -2.10,results/7_tau_scaling.json
+energy_ratio,all five configurations,1-8,fitted exponent range (Gamma=4/12/20),-1.78 to -2.37,results/7_tau_scaling.json
+energy_ratio,Beam 1 mode 1 Gamma=12,1,A/A0; B/B0; tau_ex/tau_LO,0.871; 1.486; 0.586,results/7b_tau_ratio_decomposition_output.txt
+benchmarks,Beam 1 and n=2 (N_p=60),1-5 (1-10),max estimated truncation-error bound E,1.1e-20,results/9_analysis_T4T5T9.txt
+benchmarks,Beam 2 and hub radius (N_p=90),1-5,max estimated truncation-error bound E,3.3e-13,results/9_analysis_T6T8.txt
+benchmarks,Beam 2 Gamma=8 row (N_p=100; replaces N_p=90),1-5,max estimated truncation-error bound E,5.8e-15,results/9_analysis_T6T8.txt
+benchmarks,original Tables 4/5/6/8/11,all,incorrect last digits found,25 of 155,compare in revision notes
+ritz,Beam 1 / Beam 2,1-3,34-digit Ritz vs collocation (converged),~1e-22 / <=4e-13 in lambda^2,results/12_ritz_multiprecision_output.txt
+resolved_modes,Beam 1 N=50,-,finite / complex / real / resolved(1e-6) / resolved(1e-10),47 / 10 / 37 / 16 / 13,results/10_resolved_modes_output.txt
+cost,Beam 1 Gamma=0,>=5 modes,34-digit time at 1e-8 / 1e-12,2.2 s (N=30) / 5.9 s (N=40),results/11_cost_matched_accuracy_output.txt
+endpoint_formulas,k=0..40,-,grouped formulas vs symbolic and solver rows,exact agreement,results/13_check_endpoint_formulas_output.txt
+version_check,beam 2 N=90 and all node positions,-,mpmath 1.3.0 vs 1.4.1,<=3e-30 relative / identical,results/16_version_consistency_output.txt

@@ -1,0 +1,23 @@
+Table 12 data: config | modes | Gamma interval | K | nodes | agree | rootward (per mode 2..8) | min|dxi(6)| | max unc | ratio | max |dK-dFD|/|dFD|
+Beam 1 (WW moderate taper), R=0    2-8  [0,6]  K=16 (sign-stable from K<=9)  28  28/28  [1, 1, 1, 1, 1, 1, 1]  1.1e-04  2e-12  7e+07  median 1.3e-03 max 1.8e-02
+Beam 1, hub radius R=0.5           2-8  [0,6]  K=16 (sign-stable from K<=10)  28  28/28  [1, 1, 0, 1, 1, 1, 1]  1.5e-05  1e-12  1e+07  median 1.4e-03 max 1.0e-01
+Beam 2 (WW severe taper), R=0      2-8  [0,6]  K=16 (sign-stable from K<=10)  28  28/28  [1, 1, 1, 1, 1, 1, 1]  7.0e-05  3e-08  2e+03  median 2.0e-03 max 2.7e-02
+Banerjee c=0.2, n=1, R=0           2-8  [0,6]  K=16 (sign-stable from K<=9)  28  28/28  [1, 0, 0, 0, 0, 0, 0]  2.2e-05  6e-13  3e+07  median 1.1e-03 max 1.6e-01
+Banerjee c=0.6, n=2, R=0           2-8  [0,6]  K=16 (sign-stable from K<=9)  28  28/28  [1, 2, 2, 2, 2, 2, 3]  2.3e-05  4e-11  5e+05  median 1.5e-03 max 2.4e-02
+TOTAL agree 140/140  (modes 3-8 subset: 135/135 if all mode-2 agree)
+
+Gamma_10 (first-order magnitude within 10%) by mode, min-max over nodes and configurations:
+  mode 2: min 3  median 3.0  max 5  (nodes beyond 20: 0)
+  mode 3: min 3  median 6.0  max 10  (nodes beyond 20: 0)
+  mode 4: min 2  median 10.0  max 20  (nodes beyond 20: 0)
+  mode 5: min 3  median 12.0  max >20  (nodes beyond 20: 1)
+  mode 6: min 4  median 14.0  max 20  (nodes beyond 20: 0)
+  mode 7: min 6  median 16.0  max >20  (nodes beyond 20: 4)
+  mode 8: min 7  median 20.0  max >20  (nodes beyond 20: 11)
+  nodes with Gamma_10 <= 2: [('B1R', 4, 1, 2, '2.0e-06')]
+
+Direction reversals over 0 <= Gamma <= 20:
+  B1R   mode 3 node 1 (xi0=0.534): trajectory turns near Gamma~[10], net shift changes sign near [16]; two-term estimate turn 5.3, sign change 7.4
+  B1R   mode 5 node 1 (xi0=0.311): trajectory turns near Gamma~[6], net shift changes sign near [8]; two-term estimate turn 4.6, sign change 6.5
+  B1R   mode 6 node 1 (xi0=0.257): trajectory turns near Gamma~[12], net shift changes sign near [16]; two-term estimate turn 8.4, sign change 11.8
+  B1R   mode 7 node 1 (xi0=0.219): trajectory turns near Gamma~[20], net shift changes sign near >20; two-term estimate turn 11.7, sign change 16.6

@@ -1,0 +1,121 @@
+
+=== T6 ===
+B2 G=0  (printed at N_p=90):
+   mode 1: delta=1.4e-13 r=0.019 E=1.4e-13 -> 12 figs: 5.27375884965
+   mode 2: delta=2.1e-13 r=0.019 E=2.1e-13 -> 12 figs: 24.0040874529
+   mode 3: delta=2.6e-13 r=0.019 E=2.6e-13 -> 12 figs: 59.9701465150
+   mode 4: delta=2.9e-13 r=0.019 E=3.0e-13 -> 12 figs: 112.909432742
+   mode 5: delta=3.2e-13 r=0.019 E=3.3e-13 -> 12 figs: 183.024398833
+B2 G=1  (printed at N_p=90):
+   mode 1: delta=1.3e-13 r=0.019 E=1.3e-13 -> 12 figs: 5.39031022404
+   mode 2: delta=2.1e-13 r=0.019 E=2.1e-13 -> 12 figs: 24.1069418664
+   mode 3: delta=2.6e-13 r=0.019 E=2.6e-13 -> 12 figs: 60.0695824444
+   mode 4: delta=2.9e-13 r=0.019 E=3.0e-13 -> 12 figs: 113.009041374
+   mode 5: delta=3.2e-13 r=0.019 E=3.3e-13 -> 12 figs: 183.124479450
+B2 G=2  (printed at N_p=90):
+   mode 1: delta=1.1e-13 r=0.019 E=1.1e-13 -> 12 figs: 5.72487127217
+   mode 2: delta=2.1e-13 r=0.019 E=2.1e-13 -> 12 figs: 24.4129720766
+   mode 3: delta=2.6e-13 r=0.019 E=2.6e-13 -> 12 figs: 60.3668731778
+   mode 4: delta=2.9e-13 r=0.019 E=3.0e-13 -> 12 figs: 113.307310862
+   mode 5: delta=3.2e-13 r=0.019 E=3.3e-13 -> 12 figs: 183.424373039
+B2 G=3  (printed at N_p=90):
+   mode 1: delta=8.9e-14 r=0.019 E=9.1e-14 -> 12 figs: 6.24020759716
+   mode 2: delta=2.0e-13 r=0.019 E=2.0e-13 -> 12 figs: 24.9148632468
+   mode 3: delta=2.5e-13 r=0.019 E=2.6e-13 -> 11 figs: 60.859016778
+   mode 4: delta=2.9e-13 r=0.019 E=3.0e-13 -> 12 figs: 113.802586561
+   mode 5: delta=3.2e-13 r=0.019 E=3.3e-13 -> 12 figs: 183.923040433
+B2 G=4  (printed at N_p=90):
+   mode 1: delta=6.8e-14 r=0.019 E=7.0e-14 -> 12 figs: 6.89282456134
+   mode 2: delta=1.9e-13 r=0.019 E=2.0e-13 -> 12 figs: 25.6013022857
+   mode 3: delta=2.5e-13 r=0.019 E=2.6e-13 -> 12 figs: 61.5411687494
+   mode 4: delta=2.9e-13 r=0.019 E=2.9e-13 -> 12 figs: 114.492158453
+   mode 5: delta=3.2e-13 r=0.019 E=3.3e-13 -> 12 figs: 184.618768208
+B2 G=5  (printed at N_p=90):
+   mode 1: delta=5.1e-14 r=0.019 E=5.2e-14 -> 12 figs: 7.64433611442
+   mode 2: delta=1.9e-13 r=0.019 E=1.9e-13 -> 12 figs: 26.4580813634
+   mode 3: delta=2.5e-13 r=0.019 E=2.5e-13 -> 11 figs: 62.406862394
+   mode 4: delta=2.9e-13 r=0.019 E=2.9e-13 -> 11 figs: 115.37232982
+   mode 5: delta=3.2e-13 r=0.019 E=3.2e-13 -> 12 figs: 185.509195769
+B2 G=6  (printed at N_p=90):
+   mode 1: delta=3.8e-14 r=0.019 E=3.9e-14 -> 13 figs: 8.465308257907
+   mode 2: delta=1.8e-13 r=0.019 E=1.8e-13 -> 12 figs: 27.4692998788
+   mode 3: delta=2.4e-13 r=0.019 E=2.5e-13 -> 12 figs: 63.4482851984
+   mode 4: delta=2.9e-13 r=0.019 E=2.9e-13 -> 13 figs: 116.4385078579
+   mode 5: delta=3.2e-13 r=0.019 E=3.2e-13 -> 12 figs: 186.591351913
+B2 G=7  (printed at N_p=90):
+   mode 1: delta=2.8e-14 r=0.019 E=2.9e-14 -> 12 figs: 9.33469904863
+   mode 2: delta=1.7e-13 r=0.019 E=1.7e-13 -> 12 figs: 28.6184715550
+   mode 3: delta=2.4e-13 r=0.019 E=2.5e-13 -> 11 figs: 64.656586018
+   mode 4: delta=2.8e-13 r=0.019 E=2.9e-13 -> 13 figs: 117.6853113535
+   mode 5: delta=3.1e-13 r=0.019 E=3.2e-13 -> 12 figs: 187.861699625
+B2 G=8  (printed at N_p=90):
+   mode 1: delta=2.1e-14 r=0.019 E=2.2e-14 -> 13 figs: 10.23793789673
+   mode 2: delta=1.6e-13 r=0.019 E=1.6e-13 -> 12 figs: 29.8894139428
+   mode 3: delta=2.4e-13 r=0.019 E=2.4e-13 -> 12 figs: 66.0221884185
+   mode 4: delta=2.8e-13 r=0.019 E=2.9e-13 -> 12 figs: 119.106690044
+   mode 5: delta=3.1e-13 r=0.019 E=3.2e-13 -> 12 figs: 189.316187637
+B2 G=9  (printed at N_p=90):
+   mode 1: delta=1.6e-14 r=0.019 E=1.7e-14 -> 13 figs: 11.16504883669
+   mode 2: delta=1.5e-13 r=0.019 E=1.5e-13 -> 12 figs: 31.2668748658
+   mode 3: delta=2.3e-13 r=0.019 E=2.4e-13 -> 11 figs: 67.535089101
+   mode 4: delta=2.8e-13 r=0.019 E=2.8e-13 -> 12 figs: 120.696050090
+   mode 5: delta=3.1e-13 r=0.019 E=3.2e-13 -> 12 figs: 190.950307118
+B2 G=10  (printed at N_p=90):
+   mode 1: delta=1.3e-14 r=0.019 E=1.3e-14 -> 13 figs: 12.10920301817
+   mode 2: delta=1.4e-13 r=0.019 E=1.5e-13 -> 12 figs: 32.7369094626
+   mode 3: delta=2.3e-13 r=0.019 E=2.3e-13 -> 11 figs: 69.185125742
+   mode 4: delta=2.7e-13 r=0.019 E=2.8e-13 -> 13 figs: 122.4463804880
+   mode 5: delta=3.1e-13 r=0.019 E=3.1e-13 -> 12 figs: 192.759151843
+B2 G=11  (printed at N_p=90):
+   mode 1: delta=1.0e-14 r=0.019 E=1.0e-14 -> 13 figs: 13.06569770012
+   mode 2: delta=1.4e-13 r=0.019 E=1.4e-13 -> 12 figs: 34.2870542086
+   mode 3: delta=2.2e-13 r=0.019 E=2.3e-13 -> 12 figs: 70.9622045849
+   mode 4: delta=2.7e-13 r=0.019 E=2.8e-13 -> 11 figs: 124.35037580
+   mode 5: delta=3.1e-13 r=0.019 E=3.1e-13 -> 12 figs: 194.737480188
+B2 G=12  (printed at N_p=90):
+   mode 1: delta=8.1e-15 r=0.019 E=8.2e-15 -> 13 figs: 14.03126291596
+   mode 2: delta=1.3e-13 r=0.019 E=1.3e-13 -> 12 figs: 35.9063543175
+   mode 3: delta=2.2e-13 r=0.019 E=2.2e-13 -> 11 figs: 72.856483593
+   mode 4: delta=2.7e-13 r=0.019 E=2.7e-13 -> 12 figs: 126.400551464
+   mode 5: delta=3.0e-13 r=0.019 E=3.1e-13 -> 12 figs: 196.879777396
+ test at the PRINTED precision (11 figures): FAIL: B2 G=8 mode 3
+ column summary for T6 (mode: max delta, max E, min printable figs):
+   mode 1: max delta=1.4e-13  max E=1.4e-13  min figs=12
+   mode 2: max delta=2.1e-13  max E=2.1e-13  min figs=12
+   mode 3: max delta=2.6e-13  max E=2.6e-13  min figs=11
+   mode 4: max delta=2.9e-13  max E=3.0e-13  min figs=11
+   mode 5: max delta=3.2e-13  max E=3.3e-13  min figs=12
+
+=== T6x ===
+B2 G=8  (printed at N_p=100):
+   mode 1: delta=3.9e-16 r=0.018 E=4.0e-16 -> 16 figs: 10.23793789673123
+   mode 2: delta=2.9e-15 r=0.018 E=3.0e-15 -> 14 figs: 29.889413942783
+   mode 3: delta=4.3e-15 r=0.018 E=4.4e-15 -> 13 figs: 66.02218841849
+   mode 4: delta=5.1e-15 r=0.018 E=5.2e-15 -> 14 figs: 119.10669004351
+   mode 5: delta=5.7e-15 r=0.018 E=5.8e-15 -> 14 figs: 189.31618763736
+ test at the PRINTED precision (11 figures): all entries pass
+ column summary for T6x (mode: max delta, max E, min printable figs):
+   mode 1: max delta=3.9e-16  max E=4.0e-16  min figs=16
+   mode 2: max delta=2.9e-15  max E=3.0e-15  min figs=14
+   mode 3: max delta=4.3e-15  max E=4.4e-15  min figs=13
+   mode 4: max delta=5.1e-15  max E=5.2e-15  min figs=14
+   mode 5: max delta=5.7e-15  max E=5.8e-15  min figs=14
+
+=== T8 ===
+B2 G=1 R=1  (printed at N_p=90):
+   mode 1: delta=1.2e-13 r=0.019 E=1.3e-13 -> 12 figs: 5.55057644496
+   mode 2: delta=2.1e-13 r=0.019 E=2.1e-13 -> 12 figs: 24.2498317328
+   mode 3: delta=2.6e-13 r=0.019 E=2.6e-13 -> 11 figs: 60.213416338
+B2 G=1 R=5  (printed at N_p=90):
+   mode 1: delta=1.1e-13 r=0.019 E=1.1e-13 -> 12 figs: 6.14937347150
+   mode 2: delta=2.0e-13 r=0.019 E=2.1e-13 -> 12 figs: 24.8128636428
+   mode 3: delta=2.6e-13 r=0.019 E=2.6e-13 -> 11 figs: 60.784977315
+B2 G=5 R=1  (printed at N_p=90):
+   mode 1: delta=3.9e-14 r=0.019 E=4.0e-14 -> 13 figs: 10.08284078904
+   mode 2: delta=1.7e-13 r=0.019 E=1.7e-13 -> 12 figs: 29.5339414385
+   mode 3: delta=2.4e-13 r=0.019 E=2.5e-13 -> 12 figs: 65.7635051968
+ test at the PRINTED precision (11 figures): all entries pass
+ column summary for T8 (mode: max delta, max E, min printable figs):
+   mode 1: max delta=1.2e-13  max E=1.3e-13  min figs=12
+   mode 2: max delta=2.1e-13  max E=2.1e-13  min figs=12
+   mode 3: max delta=2.6e-13  max E=2.6e-13  min figs=11

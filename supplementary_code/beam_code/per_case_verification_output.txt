@@ -1,0 +1,7 @@
+Certification table: beam 1, Rbar=0, Gamma=0, N=50 (N2=60)
+mode 1: relchange=3.81e-22 eta=7.807e-33 cont_res=1.843e-21 bnd_res=7.241e-32 rayleigh=4.933e-23 1-MAC=9.63e-35
+mode 2: relchange=3.348e-22 eta=1.312e-31 cont_res=4.515e-21 bnd_res=1.017e-31 rayleigh=3.205e-23 1-MAC=0.0
+mode 3: relchange=2.039e-23 eta=8.89e-31 cont_res=3.307e-21 bnd_res=4.142e-32 rayleigh=1.294e-23 1-MAC=2.407e-35
+mode 4: relchange=1.782e-22 eta=8.884e-31 cont_res=3.648e-21 bnd_res=8.633e-31 rayleigh=1.758e-23 1-MAC=0.0
+mode 5: relchange=7.641e-22 eta=4.579e-30 cont_res=1.502e-19 bnd_res=2.17e-31 rayleigh=7.506e-22 1-MAC=1.204e-35
+mass-orthogonality max|G_ij| (i!=j): 2.377e-21

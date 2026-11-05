@@ -1,0 +1,179 @@
+==========================================================================
+node_migration_master_output.txt
+Single, unequivocal, regenerated-in-full source for the 135/135 result.
+Produced by running the CURRENT 1_node_migration_mechanism.py logic
+(NMODES=12 for beam1/beam2/both Banerjee cases, NMODES=14 for the
+hub-radius case, per the truncation-convergence check) across all five
+cases and modes 3-8, in three back-to-back batches (concatenated below,
+each batch's own wall-clock timing shown per case).
+This supersedes and replaces 1_modes3-5_all_cases.txt, which contained
+an obsolete NMODES=6 run for the hub-radius case (2 mismatches, since
+corrected -- see 1_nmodes_truncation_convergence.txt for that history).
+==========================================================================
+
+==============================================================================
+Beam 1 (Wang-Wereley, moderate taper)  (Rbar=0.0, NMODES truncation=12)
+==============================================================================
+  mode 3, node 1/2 at xi0=0.53354: predicted->root   actual(G0->G6)->root   [OK]
+  mode 3, node 2/2 at xi0=0.87681: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 4, node 1/3 at xi0=0.39293: predicted->root   actual(G0->G6)->root   [OK]
+  mode 4, node 2/3 at xi0=0.6752: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 4, node 3/3 at xi0=0.91442: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 1/4 at xi0=0.31085: predicted->root   actual(G0->G6)->root   [OK]
+  mode 5, node 2/4 at xi0=0.53884: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 3/4 at xi0=0.75207: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 4/4 at xi0=0.93458: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 1/5 at xi0=0.25692: predicted->root   actual(G0->G6)->root   [OK]
+  mode 6, node 2/5 at xi0=0.44826: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 3/5 at xi0=0.62928: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 4/5 at xi0=0.79971: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 5/5 at xi0=0.9471: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 1/6 at xi0=0.21887: predicted->root   actual(G0->G6)->root   [OK]
+  mode 7, node 2/6 at xi0=0.38354: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 3/6 at xi0=0.54096: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 4/6 at xi0=0.69025: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 5/6 at xi0=0.83207: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 6/6 at xi0=0.95562: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 1/7 at xi0=0.1906: predicted->root   actual(G0->G6)->root   [OK]
+  mode 8, node 2/7 at xi0=0.33506: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 3/7 at xi0=0.47417: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 4/7 at xi0=0.60718: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 5/7 at xi0=0.7341: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 6/7 at xi0=0.85547: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 7/7 at xi0=0.96178: predicted->tip    actual(G0->G6)->tip    [OK]
+  case total: 27/27 correct  (wall time: 75.0 s)
+
+==============================================================================
+Beam 1, hub radius Rbar=0.5  (Rbar=0.5, NMODES truncation=14)
+==============================================================================
+  mode 3, node 1/2 at xi0=0.53354: predicted->root   actual(G0->G6)->root   [OK]
+  mode 3, node 2/2 at xi0=0.87681: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 4, node 1/3 at xi0=0.39293: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 4, node 2/3 at xi0=0.6752: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 4, node 3/3 at xi0=0.91442: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 1/4 at xi0=0.31085: predicted->root   actual(G0->G6)->root   [OK]
+  mode 5, node 2/4 at xi0=0.53884: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 3/4 at xi0=0.75207: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 4/4 at xi0=0.93458: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 1/5 at xi0=0.25692: predicted->root   actual(G0->G6)->root   [OK]
+  mode 6, node 2/5 at xi0=0.44826: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 3/5 at xi0=0.62928: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 4/5 at xi0=0.79971: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 5/5 at xi0=0.9471: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 1/6 at xi0=0.21887: predicted->root   actual(G0->G6)->root   [OK]
+  mode 7, node 2/6 at xi0=0.38354: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 3/6 at xi0=0.54096: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 4/6 at xi0=0.69025: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 5/6 at xi0=0.83207: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 6/6 at xi0=0.95562: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 1/7 at xi0=0.1906: predicted->root   actual(G0->G6)->root   [OK]
+  mode 8, node 2/7 at xi0=0.33506: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 3/7 at xi0=0.47417: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 4/7 at xi0=0.60718: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 5/7 at xi0=0.7341: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 6/7 at xi0=0.85547: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 7/7 at xi0=0.96178: predicted->tip    actual(G0->G6)->tip    [OK]
+  case total: 27/27 correct  (wall time: 92.1 s)
+PARTIAL_TOTALS 54 / 54
+
+==============================================================================
+Beam 2 (severe taper)  (Rbar=0.0, NMODES truncation=12)
+==============================================================================
+  mode 3, node 1/2 at xi0=0.49993: predicted->root   actual(G0->G6)->root   [OK]
+  mode 3, node 2/2 at xi0=0.85516: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 4, node 1/3 at xi0=0.36665: predicted->root   actual(G0->G6)->root   [OK]
+  mode 4, node 2/3 at xi0=0.64929: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 4, node 3/3 at xi0=0.90195: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 1/4 at xi0=0.28898: predicted->root   actual(G0->G6)->root   [OK]
+  mode 5, node 2/4 at xi0=0.51396: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 3/4 at xi0=0.73341: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 4/4 at xi0=0.92686: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 1/5 at xi0=0.2382: predicted->root   actual(G0->G6)->root   [OK]
+  mode 6, node 2/5 at xi0=0.42468: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 3/5 at xi0=0.60848: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 4/5 at xi0=0.78629: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 5/5 at xi0=0.94208: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 1/6 at xi0=0.20249: predicted->root   actual(G0->G6)->root   [OK]
+  mode 7, node 2/6 at xi0=0.36151: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 3/6 at xi0=0.51915: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 4/6 at xi0=0.67343: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 5/6 at xi0=0.82236: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 6/6 at xi0=0.95225: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 1/7 at xi0=0.17604: predicted->root   actual(G0->G6)->root   [OK]
+  mode 8, node 2/7 at xi0=0.31456: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 3/7 at xi0=0.45232: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 4/7 at xi0=0.58802: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 5/7 at xi0=0.72063: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 6/7 at xi0=0.8484: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 7/7 at xi0=0.95948: predicted->tip    actual(G0->G6)->tip    [OK]
+  case total: 27/27 correct  (wall time: 77.3 s)
+
+==============================================================================
+Banerjee c=0.2, n=1  (Rbar=0.0, NMODES truncation=12)
+==============================================================================
+  mode 3, node 1/2 at xi0=0.51353: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 3, node 2/2 at xi0=0.87074: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 4, node 1/3 at xi0=0.36976: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 4, node 2/3 at xi0=0.65433: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 4, node 3/3 at xi0=0.90849: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 1/4 at xi0=0.28929: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 2/4 at xi0=0.51268: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 3/4 at xi0=0.73267: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 4/4 at xi0=0.92918: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 1/5 at xi0=0.23751: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 2/5 at xi0=0.42188: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 3/5 at xi0=0.60343: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 4/5 at xi0=0.78209: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 5/5 at xi0=0.94225: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 1/6 at xi0=0.20143: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 2/6 at xi0=0.35834: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 3/6 at xi0=0.51337: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 4/6 at xi0=0.66571: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 5/6 at xi0=0.81611: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 6/6 at xi0=0.95126: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 1/7 at xi0=0.17486: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 2/7 at xi0=0.31142: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 3/7 at xi0=0.44665: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 4/7 at xi0=0.57988: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 5/7 at xi0=0.7111: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 6/7 at xi0=0.84095: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 7/7 at xi0=0.95784: predicted->tip    actual(G0->G6)->tip    [OK]
+  case total: 27/27 correct  (wall time: 75.1 s)
+PARTIAL_TOTALS 54 / 54
+
+==============================================================================
+Banerjee c=0.6, n=2  (Rbar=0.0, NMODES truncation=12)
+==============================================================================
+  mode 3, node 1/2 at xi0=0.53412: predicted->root   actual(G0->G6)->root   [OK]
+  mode 3, node 2/2 at xi0=0.87205: predicted->root   actual(G0->G6)->root   [OK]
+  mode 4, node 1/3 at xi0=0.39987: predicted->root   actual(G0->G6)->root   [OK]
+  mode 4, node 2/3 at xi0=0.67925: predicted->root   actual(G0->G6)->root   [OK]
+  mode 4, node 3/3 at xi0=0.91304: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 1/4 at xi0=0.31884: predicted->root   actual(G0->G6)->root   [OK]
+  mode 5, node 2/4 at xi0=0.54793: predicted->root   actual(G0->G6)->root   [OK]
+  mode 5, node 3/4 at xi0=0.75728: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 5, node 4/4 at xi0=0.9345: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 1/5 at xi0=0.26475: predicted->root   actual(G0->G6)->root   [OK]
+  mode 6, node 2/5 at xi0=0.45865: predicted->root   actual(G0->G6)->root   [OK]
+  mode 6, node 3/5 at xi0=0.63894: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 4/5 at xi0=0.80519: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 6, node 5/5 at xi0=0.94759: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 1/6 at xi0=0.22621: predicted->root   actual(G0->G6)->root   [OK]
+  mode 7, node 2/6 at xi0=0.39403: predicted->root   actual(G0->G6)->root   [OK]
+  mode 7, node 3/6 at xi0=0.5522: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 4/6 at xi0=0.69984: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 5/6 at xi0=0.83748: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 7, node 6/6 at xi0=0.95637: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 1/7 at xi0=0.19739: predicted->root   actual(G0->G6)->root   [OK]
+  mode 8, node 2/7 at xi0=0.34521: predicted->root   actual(G0->G6)->root   [OK]
+  mode 8, node 3/7 at xi0=0.48585: predicted->root   actual(G0->G6)->root   [OK]
+  mode 8, node 4/7 at xi0=0.61856: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 5/7 at xi0=0.74336: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 6/7 at xi0=0.86067: predicted->tip    actual(G0->G6)->tip    [OK]
+  mode 8, node 7/7 at xi0=0.96266: predicted->tip    actual(G0->G6)->tip    [OK]
+  case total: 27/27 correct  (wall time: 76.9 s)
+PARTIAL_TOTALS 27 / 27
+
+==========================================================================
+GRAND TOTAL: 27+27+27+27+27 = 135/135 correct
+==========================================================================
